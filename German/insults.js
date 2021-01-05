@@ -1,5 +1,6 @@
 let insults = [
-'Warmduscher'
+'Warmduscher',
+  'Verdammt'
 ]
 const random = Math.floor(Math.random() * insults.length);
 document.write(random, insults[random]);
