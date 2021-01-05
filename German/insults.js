@@ -1,0 +1,3 @@
+let insults = [
+'Warmduscher'
+]
