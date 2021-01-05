@@ -1,3 +1,4 @@
+<title>Insults in other languages</title>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <h1>Insults:</h1><br>
 <h6> From The book <i>Uglier than a Monkey's Armpit<i> (I will not add all the insults, so you can read it from the experts!)<br>
