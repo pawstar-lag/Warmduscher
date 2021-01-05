@@ -1,2 +1,2 @@
 ## Here are some insults in Danish:
-#### Kyss mig i arslet - Means 'Kiss my ass'
+#### Du har jord i hovedet - Means 'You have dirt in your head'
