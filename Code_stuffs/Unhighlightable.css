@@ -4,8 +4,7 @@
    -webkit-user-select: none;
 
    /*
-     Introduced in IE 10.
-     See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+Ok, I cheated and used stack overflow
    */
    -ms-user-select: none;
    user-select: none;
