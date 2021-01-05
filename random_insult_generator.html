@@ -1,4 +1,5 @@
-let insults = [
+<script>
+ let insults = [
  'Verdammt',
 'Warmduscher',
  'Kyss mig i arslet',
@@ -6,3 +7,5 @@ let insults = [
 ]
 const random = Math.floor(Math.random() * insults.length);
 document.write(random, insults[random]);
+</script>
+<input type="button" value="Regenerate" onClick="window.location.reload(true)">
