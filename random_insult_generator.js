@@ -1,4 +1,5 @@
 let insults = [
+ 'Verdammt',
 'Warmduscher',
  'Kyss mig i arslet',
  'Du har jord i hovedet'
