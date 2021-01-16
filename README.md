@@ -9,5 +9,7 @@ In the folders you will see some commonly used insults in the languages specifie
 <a href="https://bit.ly/390fYnj" target="_blank">bit.ly/390fYnj</a>
 <h3> Insults in Swedish:</h3><br>
 <a href="https://tinyurl.com/y2h65f9e" target="_blank">tinyurl.com/y2h65f9e</a>
+<h3>Insults in French:</h3>
+<a href="https://is.gd/gvt98v">is.gd/gvt98v</a>
 <h4>The random insult generator:</h4>
 <a href="https://cutt.ly/WjfYCTA" target='_blank'>cutt.ly/WjfYCTA</a>
