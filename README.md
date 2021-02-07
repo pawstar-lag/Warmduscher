@@ -12,4 +12,4 @@ In the folders you will see some commonly used insults in the languages specifie
 <h3>Insults in French:</h3>
 <a href="https://is.gd/gvt98v">is.gd/gvt98v</a>
 <h4>The random insult generator:</h4>
-<a href="https://cutt.ly/WjfYCTA" target='_blank'>cutt.ly/WjfYCTA</a>
+<a href="https://is.gd/random_insult_generator" target='_blank'>is.gd/random_insult_generator</a>
