@@ -1,17 +1,16 @@
 <title>Insult generator</title>
 <script>
- let insults = [
+ let insults = Array(
  'Verdammt',
 'Warmduscher',
  'Kyss mig i arslet',
  'Du har jord i hovedet',
   'Il a un poil dans la main'
-]
-const random = Math.floor(Math.random() * insults.length);
-document.write(random, insults[random]);
+)
+let randomValue = insults[Math.floor(Math.random() * insults.length)];
+document.write(randomValue);
 </script>
 <input type="button" value="Regenerate" onClick="window.location.reload(true)">
-(Note: ignore the number before the insult)
 <style>
 body {
    -moz-user-select: -moz-none;
@@ -25,13 +24,13 @@ body {
    text-decoration-color:darkblue;
    font-size: 50px;
 }
-button {
+input {
   size: 30px;
   font-size: 20px;
   color:red;
   background-color:navy;
 }
-buttton:hover {
+input:hover {
   size: 30px;
   font-size: 20px;
   color:navy;
