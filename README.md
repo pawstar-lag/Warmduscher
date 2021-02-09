@@ -2,7 +2,7 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <h1>Insults:</h1><br>
 <h6> From The book <i>Uglier than a Monkey's Armpit<i> (I will not add all the insults, so you can read it from the experts!)<br>
-In the folders you will see some commonly used insults in the languages specified. And, I will add some code.</h6>
+In the folders you will see some commonly used insults in the languages specified. And, I will add some code (some of the insults not from the book).</h6>
 <h3> Insults in German:</h3><br>
 <a href="https://is.gd/LiaLy3" target="_blank">is.gd/LiaLy3</a>
 <h3> Insults in Danish:</h3><br>
