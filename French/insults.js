@@ -1,6 +1,5 @@
-let insults = [
+let insults = Array(
  "Il a un poil dans la main"
-]
-const random = Math.floor(Math.random() * insults.length);
-document.write(random, insults[random]);
-//This will add the number in the list before the insult, so ignore that.
+)
+let randomValue = insults[Math.floor(Math.random() * insults.length)];
+document.write(randomValue);
