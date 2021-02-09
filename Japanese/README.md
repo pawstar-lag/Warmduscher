@@ -1,0 +1,1 @@
+# Insults in Japanese:
