@@ -1,5 +1,5 @@
-let insults = [
+let insults = Array(
 'Kyss mig i arslet',
-]
-const random = Math.floor(Math.random() * insults.length);
-document.write(random, insults[random]);
+)
+let randomValue = insults[Math.floor(Math.random() * insults.length)];
+document.write(randomValue);
